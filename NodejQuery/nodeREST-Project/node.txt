@@ -1,0 +1,1 @@
+[{"type":"Meat","name":"Chicken","qty":"11","price":5},{"type":"Food","name":"Pizza","qty":"2","price":9},{"type":"Clothes","name":"Coat","qty":"12","price":50}]
